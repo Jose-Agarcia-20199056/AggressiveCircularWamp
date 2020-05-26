@@ -17,7 +17,7 @@ public class Program
 		if (num>num2)
 	    {  if(num>num3)
 		   {
-			 Console.WriteLine("Escribre el primer numero es mayor");
+			 Console.WriteLine(" el primer numero es mayor");
 		   }
 			
 		}
